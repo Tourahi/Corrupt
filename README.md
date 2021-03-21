@@ -11,4 +11,4 @@
 * Remove the README and the .png so you keep it clean for other themes, or perhaps make your own.
 
 ### Example 
-
+![example](https://github.com/maromaroXD/Corrupt/blob/master/example.png)
